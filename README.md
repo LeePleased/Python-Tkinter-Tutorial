@@ -55,4 +55,13 @@ src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/
 <img width="200" height="200" 
 src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/6-Checkbutton/photos/3.png"/>
 
+## 7-Canvas 画布
+在窗口类 **Tk** 的基础上镶嵌一块画布类 Canvas，支持画直线，椭圆，显示图像等操作([7-Canvas](https://github.com/LiePleased/Tkinter-Useful-Instance/tree/master/instance/7-Canvas))。
+
+<img width="200" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/7-Canvas/photos/1.png"/>
+<img width="200" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/7-Canvas/photos/2.png"/>
+
+## 8-Menu 菜单栏
 
