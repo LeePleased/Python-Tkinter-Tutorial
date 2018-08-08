@@ -36,3 +36,23 @@ src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/
 src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/4-RadioButton/photos/1.png"/>
 <img width="200" height="200" 
 src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/4-RadioButton/photos/2.png"/>
+
+## 5-Scale 尺度
+显示一个可相应事件的拖动栏, 并将拖动条所处的位置实时打印到 label 上([scale.py](https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/5-Scale/scale.py)).
+
+<img width="200" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/5-Scale/photos/1.png"/>
+<img width="200" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/5-Scale/photos/2.png"/>
+
+## 6-Checkbutton
+显示一个复项复选框，并通过相应事件将对应变量的值打印到标签上([check.py](https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/6-Checkbutton/check.py))。
+
+<img width="200" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/6-Checkbutton/photos/1.png"/>
+<img width="200" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/6-Checkbutton/photos/2.png"/>
+<img width="200" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/6-Checkbutton/photos/3.png"/>
+
+
