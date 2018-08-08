@@ -11,7 +11,7 @@ import tkinter as tk
 window = tk.Tk()
 # 窗口的内容, 尺寸.
 window.title('My Window')
-window.geometry('200x100')
+window.geometry('200x200')
 
 # Tkinter 中的类均是大写开头的, 这里是 
 #Label, 标签类.
