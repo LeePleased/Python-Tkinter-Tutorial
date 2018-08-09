@@ -104,6 +104,20 @@ src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/
 src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/instance/11-Pack-Grid/photos/4.png"/>
 
 ## 二，经典实例
+这里展示一个用户登录的界面。包括注册，登录等功能([window.py](https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/window/window.py))。
 
+<img width="400" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/window/photos/1.png"/>
+<img width="400" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/window/photos/2.png"/>
 
+<img width="400" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/window/photos/3.png"/>
+<img width="400" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/window/photos/4.png"/>
+
+<img width="400" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/window/photos/5.png"/>
+<img width="400" height="200" 
+src="https://github.com/LiePleased/Tkinter-Useful-Instance/blob/master/window/photos/6.png"/>
 
